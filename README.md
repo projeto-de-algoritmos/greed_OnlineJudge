@@ -48,6 +48,9 @@ Escolhemos desenvolver soluções para problemas do Juiz Online **UVA**. Foram s
 ### Submissão aceita no UVA do problema 10763 - Foreign Exchange
 ![photo_2023-05-31_01-23-17](https://github.com/projeto-de-algoritmos/greed_OnlineJudge/assets/42985614/3a5a5e56-f85e-4d4c-b6ba-42ea58936893)
 
+### Vídeo demonstrando a execução das questões.
+![Vídeo da explicação.](https://drive.google.com/file/d/1yZtJqrZSL8e45D6y4G1xFsyueH91pP6k/view?usp=sharing)
+
 
 ## Instalação 
 **Linguagem**: C++<br>
